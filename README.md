@@ -2,7 +2,7 @@
 
 This is my 2nd year 2nd semester IWT LAB final Assignment. <br>
 Here, I have included some basic information of mine through the help of the web and its technologies. <br>
-Language I have used here:
+Languages I have used here:
 * HTML 5.0
 * CSS
 * Bootstrap
